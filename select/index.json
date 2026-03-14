@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "心",
+  "base_artist": "東京事変",
+  "createdAt": "2026-03-14T14:00:53.963068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RED CLIFF ~心・戦~",
+      "artist": "阿蘭",
+      "has_synced": false,
+      "path": "select/01_RED_CLIFF_~心・戦~_阿蘭.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/02_心_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/03_心_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心・戰〜RED CLIFF〜 (2022 Remastered)",
+      "artist": "阿蘭",
+      "has_synced": false,
+      "path": "select/04_心・戰〜RED_CLIFF〜_(2022_Remastered)_阿蘭.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心・戰〜RED CLIFF〜",
+      "artist": "alan",
+      "has_synced": false,
+      "path": "select/05_心・戰〜RED_CLIFF〜_alan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ai ta 心",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/06_ai_ta_心_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heart (심(心))",
+      "artist": "DK",
+      "has_synced": true,
+      "path": "select/07_Heart_(심(心))_DK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心.洞",
+      "artist": "Andrew Tan",
+      "has_synced": true,
+      "path": "select/08_心.洞_Andrew_Tan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/09_心_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ai ta 心 (Album Version)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/10_ai_ta_心_(Album_Version)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "花．心",
+      "artist": "周华健",
+      "has_synced": true,
+      "path": "select/11_花.心_周华健.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "my little airport",
+      "has_synced": true,
+      "path": "select/12_心_my_little_airport.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kokoro [心]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/13_Kokoro_[心]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "曾庆瑜",
+      "has_synced": true,
+      "path": "select/14_心_曾庆瑜.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart (심(心))",
+      "artist": "DK (디셈버)",
+      "has_synced": true,
+      "path": "select/15_Heart_(심(心))_DK_(디셈버).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "心 アシンメトリー [instrumental]",
+      "artist": "千菅春香",
+      "has_synced": false,
+      "path": "select/16_心_アシンメトリー_[instrumental]_千菅春香.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "心 - LIVE",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/17_心_-_LIVE_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/18_心_平原綾香.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "心",
+      "artist": "JJJ",
+      "has_synced": true,
+      "path": "select/19_心_JJJ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_心_東京事変.txt"
+    }
+  ]
+}
